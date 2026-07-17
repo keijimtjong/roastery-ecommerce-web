@@ -1,0 +1,25 @@
+{
+  "name": "Kopi Nusantara",
+  "short_name": "Kopi Nusantara",
+  "description": "Premium Indonesian Coffee Shop & Roastery. Sourced ethically directly from local Gayo, Lampung, Toraja, and Bali farmers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#6F4E37",
+  "orientation": "portrait-primary",
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

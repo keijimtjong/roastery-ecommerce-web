@@ -1,0 +1,6 @@
+{
+  "name": "Kopi Nusantara",
+  "description": "Premium Indonesian Coffee Shop & Roastery. Authentic beans sourced directly from local farmers, freshly roasted and brewed with passion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
